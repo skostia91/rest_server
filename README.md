@@ -1,7 +1,7 @@
 # rest_server
 
-Описание:
 ## REST API
+Описание:
 Состоит из двух частей
 - Первая часть - https://github.com/skostia91/rest_client
 Client отправляет данные на сервер. 

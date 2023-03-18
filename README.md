@@ -3,9 +3,9 @@
 Описание:
 ## REST API
 Состоит из двух частей
-- 1. Первая часть - https://github.com/skostia91/rest_client
+- Первая часть - https://github.com/skostia91/rest_client
 Сенсор отправляет данные на сервер. 
-- 2. Вторая часть - Сервер обрабатывает эти данные и записывает в БД.
+- Вторая часть - Сервер обрабатывает эти данные и записывает в БД.
 
 Технологии: Java 11, Spring Boot, MVC, Data, MySQL Workbench, REST, Postman, Lombok, Validation
 

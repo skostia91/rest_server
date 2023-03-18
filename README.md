@@ -1,12 +1,10 @@
 # rest_server
-##Название Sensor
 
 Описание:
 REST API
 Состоит из двух частей сенсор отправляет данные на сервер. Сервер обрабатывает эти данные и записывает в БД.
 
 Технологии: Java 11, Spring Boot, MVC, Data, MySQL Workbench, REST, Postman, Lombok, Validation
-
 
 ## Запуск программы:
 1. Запуск rest приложения.
